@@ -1,1 +1,31 @@
 # shahidabijar.github.io
+<html>
+<head>
+<title>         shahida webpage    </title>
+<head>
+<body>
+<center> <h1>     shahida  </h1> </center>
+<center> <img src = "shahida.jpg" height = 200 width = 200> </center>
+
+<h2>   education and interst </h2>
+<p>    i am in middle school my school name is the horizon high
+       i am in class7 my favarite subject is urdu because i am 
+       very good in urdu and also i got 93 percentage in my midterm
+       examination and my favorite teacher name is miss erum and she 
+       is also my class teacher </p>
+<h2> hobbies </h2>
+<p>    my  hobbie is to do sketching and painting i do really 
+       good good sketchings and paintings and i also sell my
+       sketchings and i am also do paintings in my free time
+       i really enjoy when i do paintings </P>
+<h2> career embision </h2> 
+<p>    i want to become teacher in my future i wont to
+       teach students and i wont teach urdu subject 
+       because urdu is one of my favourite subject and
+       my mom and also wont me to become teacher </p>
+
+
+
+
+</body>
+</html>
